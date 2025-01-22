@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GenerateRandomNumberApp</string>
+    <string name="generate_random_numbers">Generate random numbers</string>
+    <string name="is_integer">Show with Notification</string>
+    <string name="generated_number">Generated number</string>
+    <string name="generate">Generate</string>
+    <string name="slider">Slider</string>
+    <string-array name="initial">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
